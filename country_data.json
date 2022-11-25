@@ -1,0 +1,22 @@
+{
+  "countryCode": "IN",
+  "countryName": "India",
+  "isoNumeric": 356,
+  "isoAlpha3": "IND",
+  "fipsCode": "IN",
+  "continent": "AS",
+  "continentName": "Asia",
+  "capital": "New Delhi",
+  "areaInSqKm": 3287590,
+  "population": 1352617328,
+  "currencyCode": "INR",
+  "languages": [
+    "en"
+  ],
+  "geonameId": 1269750,
+  "west": 68.4840183183648,
+  "north": 35.524548272882,
+  "east": 97.4152926679075,
+  "south": 6.7559528993543,
+  "postalCodeFormat": "######"
+}
